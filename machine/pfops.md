@@ -8,7 +8,7 @@
 
 ### Description:
 
-This machine takes advantage of misconfigurations in file uploads, LFI exploitation, and Linux privilege misconfigurations, simulating an environment where attackers discover credentials and escalate privileges on a simulated internal server and gain root execution on internal firewall pfsense
+This machine takes advantage of misconfigurations in file uploads, LFI exploitation, and Linux privilege misconfigurations, simulating an environment where attackers discover credentials and escalate privileges on a simulated internal server and gain root execution sudo abuse
 
 ### Difficulty:
 
