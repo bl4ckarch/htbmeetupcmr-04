@@ -108,7 +108,7 @@ Root: `htbmeetupcmr{NM4p_2_r007_0wn4g3}`
      
      ![alt text](image-1.png)
      
-     - The actual parameter is page is vulnerable to an LFI
+     - The actual vulnerable parameter is page which is therefore vulnerable to an LFI
       ![alt text](image-3.png)
 
 2. **Bypassing Upload Restrictions**:
